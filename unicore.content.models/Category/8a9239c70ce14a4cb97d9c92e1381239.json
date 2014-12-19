@@ -1,0 +1,20 @@
+{
+  "subtitle": "FFL Emergencies Indonesia", 
+  "uuid": "8a9239c70ce14a4cb97d9c92e1381239", 
+  "language": "ind_ID", 
+  "title": "Kedaruratan", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "kedaruratan", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
