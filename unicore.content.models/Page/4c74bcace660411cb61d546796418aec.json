@@ -1,0 +1,29 @@
+{
+  "subtitle": "Pesan Utama 3", 
+  "description": "Pesan Utama 3", 
+  "language": "ind_ID", 
+  "title": "Pesan Utama 3", 
+  "primary_category": "8a9239c70ce14a4cb97d9c92e1381239", 
+  "created_at": "2015-01-06T06:29:43.265480+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-06T06:29:43.265684+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**Pesan Utama**\r\n3 Campak, diare, pneumonia, malaria, kurang gizi, dan komplikasi pada\r\nbayi baru lahir merupakan penyebab utama kematian anak apalagi di\r\nsituasi kedaruratan.\r\n\r\nInformasi Pendukung\r\nPenyakit menular menyebar dengan mudah dalam kondisi lingkungan yang padat seperti di pengungsian.\r\nGuna mengurangi terjadinya risiko :\r\n1. Pastikan bahwa anak umur enam bulan hingga 15 tahun di pengungsian telah mendapat\r\nimunisasi lengkap utamanya terhadap campak.\r\n2.\tLanjutkan dengan mendatangi layanan kesehatan guna mencegah atau mengobati penyakit.\r\n(Merujuk kepada bab tentang kehamilan dan persalinan aman, imunisasi, infeksi saluran pernafasandan malaria).\r\n\r\nKurang gizi lebih sering terjadi dalam kedaruratan karena keterbatasan pangan, meningkatnya penyakit dan layanan pemeliharaan kesehatan yang kurang baik. Itulah sebabnya penting bagi anak-anak agar:\r\n1. Mendapat ASI dan jumlah nutrisi yang cukup sesuai umurnya.\r\n2. Mendapat makanan tambahan untuk menambah nilai gizi.\r\n\r\nAnak yang sangat kurus dan atau bengkak-bengkak pada kaki perlu dibawa ke petugas kesehatan yang terlatih atau secara kesehatan agar segera diperiksa serta mendapat pengobatan dan perawatan sesuai statusnya.\r\n(Merujuk kepada bab tentang ASI serta Gizi dan Pertumbuhan Anak).\r\n\r\nDalam kedaruratan, kurangnya air bersih, sanitasi lingkungan dan kebersihan perorangan dapat menyebabkan penyakit yang kemudian menjadi wabah. Penyakit kolera dapat terjadi karena buruknya sanitasi dan padatnya manusia.\r\n\r\nLangkah-langkah yang perlu dilakukan:\r\n1. Cuci tangan dengan air dan sabun sebelum makan dan setelah BAB.\r\n2. Buanglah kotoran manusia di jamban dan jangan buang sampah sembarangan.\r\n3. Lakukan penyiapan makanan dengan benar.\r\n4. Pakailah sumber air bersih atau memasak air, menyaring, memberi klorine atau disinfektan dengan panas matahari.\r\n5. Simpanlah air di tempat yang bersih dan pakai penutup.\r\n(Merujuk kepada bab tentang kebersihan perorangan dan kesehatan lingkungan dan diare).\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "pesan-utama-3", 
+  "uuid": "4c74bcace660411cb61d546796418aec"
+}
