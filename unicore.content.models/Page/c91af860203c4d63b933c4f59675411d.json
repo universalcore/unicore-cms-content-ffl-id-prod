@@ -1,0 +1,29 @@
+{
+  "subtitle": "JADWAL PEMBERIAN TETANUS PADA IBU HAMIL 8", 
+  "description": "JADWAL PEMBERIAN TETANUS PADA IBU HAMIL 8", 
+  "language": "ind_ID", 
+  "title": "JADWAL PEMBERIAN TETANUS PADA IBU HAMIL", 
+  "primary_category": "5f9f5eeaaa5a46169e984c533e31d415", 
+  "created_at": "2015-01-06T08:32:23.834375+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-06T08:32:23.834573+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**JADWAL PEMBERIAN TETANUS PADA IBU HAMIL**\r\n\r\nKetika ibu hamil, sebaiknya ibu sudah mendapatkan suntikan TT sebanyak 2 kali dalam 3 tahun terakhir. Jika dalam riwayat sebelumnya ibu hamil belum pernah mendapatkan imunisasi TT, maka ia harus mendapatkan imunisasi tetanus agar ibu mendapatkan perlindungan yang efektif dari penyakit tetanus. Jadwal pemberiannya :\r\n\r\nDosis pertama\t\t: segera setelah ibu tahu hamil\r\nDosis kedua\t\t: paling cepat satu bulan setelah dosis pertama.\r\nDosis ketiga\t\t: paling cepat enam bulan setelah dosis kedua, atau selama kehamilan  \r\n                                      berikutnya\r\nDosis keempat\t\t: paling cepat satu tahun setelah dosis ketiga, atau selama kehamilan \r\n                                      berikutnya.\r\nDosis kelima\t\t: paling cepat satu tahun setelah dosis keempat, atau selama kehamilan\r\n                                      berikutnya.\r\n\r\nJika ibu sudah pernah mendapatkan imunisasi TT sebelumnya, maka ia tetap harus melengkapi status imunisasinya sampai dosis kelima. Jarak pemberian imunisasi berikutnya disesuaikan dengan status imunisasi terdahulu seperti jadwal di atas.\t\r\n\r\nSetelah mendapatkan lima dosis TT dengan jarak pemberian yang benar, maka ibu akan terlindungi selama 25 tahun ke depan. Kekebalan terhadap tetanus pada ibu akan diturunkan kepada bayi yang ada di dalam kandungannya, sehingga anak akan terlindungi untuk selama beberapa minggu pertama sejak kelahirannya.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "jadwal-pemberian-tetanus-pada-ibu-hamil", 
+  "uuid": "c91af860203c4d63b933c4f59675411d"
+}
