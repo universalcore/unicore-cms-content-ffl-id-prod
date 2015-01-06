@@ -1,0 +1,29 @@
+{
+  "subtitle": "Pesan Utama 1", 
+  "description": "Pesan Utama 1", 
+  "language": "ind_ID", 
+  "title": "Pesan Utama 1", 
+  "primary_category": "8a9239c70ce14a4cb97d9c92e1381239", 
+  "created_at": "2015-01-06T06:28:16.261242+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-06T06:28:16.261473+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**Pesan Utama**\r\n1.\tDalam kedaruratan baik itu konflik, bencana atau wabah penyakit,\r\nkelompok rentan seperti anak-anak, perempuan, ibu hamil, lansia memiliki hak yang sama seperti pada saat kondisi normal.\r\n\r\nInformasi Pendukung\r\n\r\nPendukung Masyarakat, keluarga dan anak-anak mereka berhak menerima bantuan kemanusiaan\r\ndalam kedaruratan. Keluarga dan anak-anak mereka, termasuk perempuan, ibu hamil,\r\nlansia yang terpaksa meninggalkan rumah akibat konflik atau bencana harus segera mendapat\r\nbantuan agar bisa hidup normal.\r\n\r\nMasyarakat dapat mendirikan posko untuk orang-orang yang lemah dan sakit di lokasi yang\r\nbebas dari kepentingan militer. Tentara harus memperbolehkan adanya akses bantuan kemanusiaan\r\nbagi masyarakat sipil. Petugas kemanusiaan dan pemberi bantuan harus dihormati dan\r\ndilindungi.\r\n\r\nKebutuhan khusus bagi para ibu dan remaja puteri dalam situasi kedaruratan harus diperhatikan.\r\nMereka memerlukan suasana pribadi, kebersihan dan perlindungan. Anak-anak yang kehilangan\r\nkeluarga, ibu-ibu hamil, ibu-ibu dengan anak-anak kecil, ibu kepala rumah tangga, orang-orang\r\ncacat dan orangtua memerlukan perhatian khusus sesuai kebutuhan masing-masing.\r\n\r\nPemerintah pusat dan daerah bertanggung jawab terhadap bantuan dan perlindungan kepada\r\nanak-anak dan keluarga yang mengungsi. Bantuan dan perlindungan kepada anak-anak dan\r\nkeluarga dapat diberikan oleh pemerintah, swasta, LSM, Palang Merah, lembaga internasional,\r\ndan sebagainya.\r\n\r\nPengungsi berhak pulang dengan selamat kerumah mereka setelah keadaan dinyatakan aman.\r\nHak-hak kepemilikan para pengungsi harus dihormati sehingga mereka dapat membangun\r\nhidupnya kembali. Pada saat masyarakat membangun hidupnya kembali pasca kedaruratan, perhatian harus diberikan terhadap pelayanan sosial termasuk kesehatan dan pendidikan bagi\r\nanak-anak dan ibu.\r\n\r\nPetugas kemanusiaan yang memberi bantuan kepada masyarakat sipil harus mencegah adanya\r\ntindak kekerasan, eksploitasi dan kejahatan. Jika ada kegiatan petugas kemanusiaan yang\r\nmengeksploitasi penduduk, harus segera dilaporkan ke instansi terkait dan pemerintah setempat.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "pesan-utama-1", 
+  "uuid": "671cfde2e95742269cd7a75501c725ca"
+}
