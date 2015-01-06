@@ -1,0 +1,29 @@
+{
+  "subtitle": "VAKSIN PENTAVALEN 5", 
+  "description": "VAKSIN PENTAVALEN 5", 
+  "language": "ind_ID", 
+  "title": "VAKSIN PENTAVALEN", 
+  "primary_category": "5f9f5eeaaa5a46169e984c533e31d415", 
+  "created_at": "2015-01-06T07:34:50.297574+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-06T07:34:50.297812+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "VAKSIN PENTAVALEN\r\n\r\nPemberian vaksin DPT, Hepatitis B dan Hib dikenal dengan vaksin penta, karena mengandung lima komponen antigen. Vaksin DPT, Hepatitis B dan Hib dapat memberikan perlindungan tambahan terhadap penyakit meningitis dan pneumonia, yang disebabkan oleh kuman Haemophilus influenzae tipe b. Vaksin ini diperkenalkan dalam program imunisasi, untuk mengurangi angka kematian anak karena penyakit yang ditimbulkan kuman tersebut. \r\n\r\nVAKSIN LAINNYA\r\nDalam waktu dekat ini pemerintah akan mengenalkan pula vaksin polio dengan cara suntikan. Vaksin Polio suntik lebih poten dalam memberikan perlindungan terhadap penyakit polio.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "vaksin-pentavalen", 
+  "uuid": "b5ead60df1cf4786b81f7f0b23c89926"
+}
