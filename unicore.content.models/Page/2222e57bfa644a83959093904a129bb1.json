@@ -6,12 +6,12 @@
   "primary_category": "49f1a5d9b2f8478e82f2224bb178f7cd", 
   "created_at": "2015-01-06T07:18:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-06T07:19:23.707068+00:00", 
+  "modified_at": "2015-01-06T07:23:19.216064+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "malaria-pesan-utama-2", 
   "uuid": "2222e57bfa644a83959093904a129bb1"
