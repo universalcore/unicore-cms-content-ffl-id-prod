@@ -6,12 +6,12 @@
   "primary_category": "49f1a5d9b2f8478e82f2224bb178f7cd", 
   "created_at": "2015-01-06T07:14:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-06T07:16:39.373159+00:00", 
+  "modified_at": "2015-01-06T07:23:19.318939+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Malaria-Pesan-Utama-1", 
   "uuid": "dec09a3c9de84228b3ad7e96ae65c05a"
