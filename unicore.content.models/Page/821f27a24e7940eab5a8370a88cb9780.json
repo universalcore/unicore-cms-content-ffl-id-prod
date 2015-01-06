@@ -1,0 +1,29 @@
+{
+  "subtitle": "Pesan Utama 5", 
+  "description": "Pesan Utama 5", 
+  "language": "ind_ID", 
+  "title": "Pesan Utama 5", 
+  "primary_category": "8a9239c70ce14a4cb97d9c92e1381239", 
+  "created_at": "2015-01-06T06:32:05.380600+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-06T06:32:05.380828+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**Pesan Utama**\r\n5 Ibu-ibu harus tetap memberi ASI meskipun dalam keadaan stres karena\r\nkedaruratan.\r\n\r\nInformasi Pendukung\r\nSering kali orang percaya bahwa dalam kedaruratan tidak boleh atau tidak dapat memberikan\r\nASI karena kondisi ibu stres atau kurang gizi. Hal tersebut tidak benar. Ibu-ibu yang kurang makan\r\natau tidak mendapat gizi yang cukup masih tetap dapat memberikan ASI. Mereka perlu diberi\r\nmakanan dan minuman tambahan guna melindungi kesehatan diri dan anaknya. Bapak-bapak\r\ndan anggota keluarga yang lain dapat memberi dukungan kepada ibu-ibu menyusui dengan menyiapkan\r\nmakanan dan mengasuh anak.\r\n\r\nStres memang dapat menghambat keluarnya ASI tetapi tidak menghentikan produksi ASI jika ibu\r\ndan bayi tetap bersama dan melanjutkan pemberian ASI. Tempat istirahat yang tenang di tenda\r\npengungsian atau penampungan sementara dapat membantu ibu-ibu merasa nyaman.\r\n\r\nPemberian ASI tidak mungkin dilakukan dalam beberapa kasus. Misalnya anak yang terpisah\r\ndengan ibu mereka, ibu yang sedang sakit keras, ibu yang pernah menghentikan pemberian ASI,\r\nibu yang tidak sanggup lagi memberi ASI dan ibu yang positif HIV dan sudah memiilih untuk tidak\r\nmemberi ASI.\r\n\r\nPengganti ASI tidak boleh dibagikan secara bebas tanpa pengawasan bersama makanan lain\r\nyang tidak perlu perhatian khusus. Bagaimana pun ASI tidak tergantikan sebagai pelindung terbaik\r\nuntuk bayi terhadap penyakit dalam kedaruratan.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "pesan-utama-5", 
+  "uuid": "821f27a24e7940eab5a8370a88cb9780"
+}
