@@ -1,0 +1,29 @@
+{
+  "subtitle": "IMUNISASI Pengantar", 
+  "description": "IMUNISASI Pengantar", 
+  "language": "ind_ID", 
+  "title": "IMUNISASI Pengantar", 
+  "primary_category": "5f9f5eeaaa5a46169e984c533e31d415", 
+  "created_at": "2015-01-06T07:28:26.883621+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-06T07:28:26.883911+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**IMUNISASI**\r\n\r\n-\tImunisasi Dasar/Rutin pada anak usia kurang dari satu tahun\r\n-\tImunisasi lanjutan pada anak usia 1-3 tahun\r\n-\tImunisasi pada anak usia sekolah dasar\r\n-\tImunisasi pada ibu hamil\r\n-\tImunisasi pada orang yang bepergian\r\n\r\n\r\nAPA ITU IMUNISASI?\r\n\r\nImunisasi adalah suatu cara untuk menimbulkan atau meningkatkan kekebalan tubuh seseorang secara aktif terhadap suatu penyakit melalui vaksinasi, sehingga bila kelak ia terpapar dengan penyakit tersebut tidak akan sakit atau hanya sakit ringan. Bila seseorang tidak mendapatkan imunisasi, ia akan mudah terpapar  penyakit yang dapat menyebabkan kecacatan atau kematian. Imunisasi diberikan pada anak dengan vaksin yang disuntikkan atau diteteskan melalui mulut.\r\nSemua anak, baik perempuan maupun laki-laki, wajib diberikan imunisasi secara lengkap. Imunisasi aman bagi anak yang sakit ringan, cacat, atau kurang gizi. Imunisasi yang diberikan pada anak dapat mencegah beragam penyakit, seperti hepatitis B, tuberkulosis, meningitis, difteri, tetanus, polio dan campak.  Berbagai penyakit berbahaya tersebut dapat menimbulkan kecacatan atau kematian.\r\nCakupan imunisasi yang tinggi dan merata dapat mencegah penularan penyakit PD3I di masyarakat (dari individu yang satu ke individu lainnya) sehingga dapat menghindari timbulnya wabah penyakit.\r\n\r\nKata berwarna biru kalau diklik akan ke informasi tentang penyakit tersebut. (nama penyakit, gejala, dampak, pencegahan, solusi, gambar).\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "imunisasi-pengantar", 
+  "uuid": "79cce6bf38334046bbe984b0e10336b5"
+}
