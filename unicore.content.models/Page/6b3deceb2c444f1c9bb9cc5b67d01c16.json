@@ -1,0 +1,29 @@
+{
+  "subtitle": "Pencegahan Kecelakaan Pengantar", 
+  "description": "Pencegahan Kecelakaan Pengantar", 
+  "language": "ind_ID", 
+  "title": "Pencegahan Kecelakaan Pengantar", 
+  "primary_category": "e76f1e313b9840d689be5f2ea157245b", 
+  "created_at": "2015-01-08T04:34:37.377620+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-08T04:34:37.377819+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Kenapa begitu penting untuk berbagi\r\ninformasi dan mempraktikkan:\r\n\r\n**Pencegahan Kecelakaan Pengantar**\r\n\r\nSetiap tahun, hampir 1 juta anak meninggal karena kecelakaan dan lebih dari puluhan juta\r\nanak-anak lainnya memerlukan perawatan rumah sakit karena mengalami luka berat. Di\r\nantara yang luka berat banyak yang menjadi cacat permanen dan mendapat gangguan\r\nfungsi otak.\r\n\r\nKecelakaan yang biasa terjadi adalah jatuh, terbakar, tenggelam dan kecelakaan lalu lintas. Beberapa\r\nkasus kecelakaan di Indonesia juga diakibatkan bom atau bahan peledak yang banyak tersisa dari\r\nperang dunia dan perang kemerdekaan. Umumnya kecelakaan terjadi di dekat rumah. Hampir\r\nsemuanya dapat dicegah dan dapat diatasi jika orang tua tahu apa yang harus mereka lakukan untuk\r\nmencegah kecelakaan dan jika terjadi kecelakaan.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "pencegahan-kecelakaan-pengantar", 
+  "uuid": "6b3deceb2c444f1c9bb9cc5b67d01c16"
+}
