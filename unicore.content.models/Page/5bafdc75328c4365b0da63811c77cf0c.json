@@ -6,12 +6,12 @@
   "primary_category": "e51390c922de44ee804a735b7721ff6e", 
   "created_at": "2015-01-08T02:18:58+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-08T08:23:25.776041+00:00", 
+  "modified_at": "2016-10-04T10:52:24.320211+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 54, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "perlindungan-anak-pesan-utama-5", 
   "uuid": "5bafdc75328c4365b0da63811c77cf0c"
