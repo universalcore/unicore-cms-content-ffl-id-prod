@@ -6,12 +6,12 @@
   "primary_category": "8a9239c70ce14a4cb97d9c92e1381239", 
   "created_at": "2015-01-06T06:29:43+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-08T08:04:35.271875+00:00", 
+  "modified_at": "2016-10-04T10:49:58.349458+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 64, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "kedaruratan-pesan-utama-3", 
   "uuid": "4c74bcace660411cb61d546796418aec"
