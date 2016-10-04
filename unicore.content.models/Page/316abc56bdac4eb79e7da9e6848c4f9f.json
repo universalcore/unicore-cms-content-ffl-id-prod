@@ -6,12 +6,12 @@
   "primary_category": "4446b3a90070448bacb4ce67c1a613e9", 
   "created_at": "2015-01-08T06:16:12.787092+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-08T06:27:00.114517+00:00", 
+  "modified_at": "2016-10-04T10:46:57.919582+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "kebersihan-pesan-utama-4", 
   "uuid": "316abc56bdac4eb79e7da9e6848c4f9f"
